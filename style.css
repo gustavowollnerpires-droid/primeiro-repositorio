@@ -5,16 +5,29 @@ img {
 
 header {
     background-color: blue;
-    color: bisque text-alingn: center max-width: 800px;
+    color: bisque;
+    text-align: center;
+    max-width: 800px;
     margin: 0 auto;
     padding: 16px;
 }
 
 main {
     background-color: #ffffff;
-
+    color: #183c63;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 16px;
 }
 
 .artigo-autor {
     font-weight: bold;
+}
+
+ 
+
+
+
+article {
+    font-display: flex;
 }
